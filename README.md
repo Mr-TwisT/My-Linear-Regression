@@ -17,7 +17,7 @@ A clean and efficient implementation of Linear Regression to solve predictive mo
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Mr-TwisT/My-Linear-Regression.git](https://github.com/Mr-TwisT/My-Linear-Regression.git)
+   git clone https://github.com/Mr-TwisT/My-Linear-Regression.git
    ```
 2. Install dependencies.
 3. Open .ipynb file in your own enviroment.
